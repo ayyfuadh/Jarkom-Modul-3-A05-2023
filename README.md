@@ -380,9 +380,9 @@ apt install nginx php php-fpm -y
 ### output
 
 kemudian dilakukan pengecekan apakah sudah terkoneksi dengan benar serta dapat terhubung dengan domain yang dimasukkan pada node himmel dan node lamine
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal1-output1.png?raw=true)
 
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal1-output2.png?raw=true)
 
 ## Soal 2
 
@@ -424,8 +424,8 @@ service isc-dhcp-server restart
 
 ### output
 
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal2-output1.png?raw=true)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal2-output2.png?raw=true)
 
 ## Soal 3
 
@@ -467,8 +467,8 @@ service isc-dhcp-server restart
 
 ### Output
 
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal3-output1.png?raw=true)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal3-output2.png?raw=true)
 
 ## Soal 4
 
@@ -510,8 +510,8 @@ service isc-dhcp-server restart
 
 ### Output
 
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](?raw=true)
+![alt text](?raw=true)
 
 ## Soal 5
 
@@ -553,8 +553,8 @@ service isc-dhcp-server restart
 
 ### Output
 
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](?raw=true)
+![alt text](?raw=true)
 
 ## Soal 6
 
@@ -596,7 +596,7 @@ service nginx restart
 
 jalankan perintah '''lynx localhost''' pada node client
 
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal6-output1.png?raw=true)
 
 ## Soal 7
 
@@ -608,8 +608,8 @@ dilakukan setup terlebih dahulu pada node '''eisen''' seperti yagn dijelaskan di
 ### Script
 
 mula mula dilakukan konfigurasi pada node Heiter (DNS Server), seperti pada gambar untuk kedua domain '''granz.channel.a05.com''' dan '''riegel.canyon.a05.com''' dengan mengarahkan IP menuju node Eisen
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](?raw=true)
+![alt text](?raw=true)
 
 kemudian buka pada node eisen lalu lakukan konfigurasi sebagai berikut
 
@@ -661,8 +661,8 @@ ab -n 1000 -c 100 http://192.171.2.2/
 
 yang diperoleh hasil sebagai berikut
 
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal7-output1.png?raw=true)
+![alt text](?raw=true)
 
 ## Soal 10
 
@@ -722,9 +722,9 @@ kemudian ketik '''htpasswd -c /etc/nginx/rahasisakita/htpasswd netics''', Lalu, 
 ### Output
 
 kemudian akses url `http://www.granz.channel.a05.com/` maka akan muncul tampilan sebagai berikut
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal10-output1.png?raw=true)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal10-output2.png?raw=true)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal10-output3.png?raw=true)
 
 ## Soal 11
 
@@ -786,7 +786,7 @@ kemudian coba ketik sebagai berikut pada node client
 lynx www.granz.channel.a05.com/its
 ```
 
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal11-output1.png?raw=true)
 
 ## Soal 12
 
@@ -850,8 +850,8 @@ service nginx restart
 ### Output
 
 jika diakses pada node yang tidak disetujui maka anakmuncul sebagai berikut
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal12-output1.png?raw=true)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal12-output2.png?raw=true)
 
 ## Soal 13
 
@@ -944,7 +944,7 @@ Setelah itu lakukan pengecekan di node salah satu Laravel Worker. dengan mengeti
 mariadb --host=192.171.2.1 --port=3306 --user=kelompoka05 --password=passworda05 dbkelompoka05 -e "SHOW DATABASES;"
 ```
 
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal13-output2.png?raw=true)
 
 ## Soal 14
 
@@ -1135,4 +1135,4 @@ ketikkan
 lynx localhost:[PORT]
 ```
 
-![image](https://github.com/riansyah251641/Jarkom-Modul-3-A05-2023/img/)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-3-A05-2023/blob/main/img/soal14-output1%20(1).png?raw=true)
